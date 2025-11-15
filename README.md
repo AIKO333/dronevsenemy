@@ -15,8 +15,3 @@
 - Simple physics; no networking
 - Basic AI; uses OverlapSphere detection
 - No object pooling (may spawn many projectiles)
-
-**How to run:**
-1. Open `Assets/Scenes/Main.unity`
-2. Ensure `Scenes` are added to Build Settings
-3. Press Play
